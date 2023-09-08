@@ -11,10 +11,15 @@
 
 - 📄 Know about my experiences [https://np.linkedin.com/in/milan-dangol](https://np.linkedin.com/in/milan-dangol)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/milan-dangol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milan-dangol" height="30" width="40" /></a>
 <a href="https://hashnode.com/@menz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@menz" height="30" width="40" /></a>
+<a href="/https://milaan.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://milaan.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,6 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milandangol&" alt="milandangol" /></p>
 
-## My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
+# Latest Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
