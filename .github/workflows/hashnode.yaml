@@ -17,7 +17,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: "@MenZ" # Hashnode Username
-          COUNT: 4 # MAX Visisble
+          COUNT: 10 # MAX Visisble
           STYLE: "blog-left"
           BLOG_URL: "https://milaan.hashnode.dev/"
         env:
