@@ -27,4 +27,9 @@
 
 # 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rate limit in specific APIs via Nginx Ingress Controller.](https://milaan.hashnode.dev/rate-limit-in-specific-apis-via-nginx-ingress-controller)
+- [Scaling Docker Containers with Nginx: A Guide to Reverse Proxy and Load Balancing](https://milaan.hashnode.dev/scaling-docker-containers-with-nginx-a-guide-to-reverse-proxy-and-load-balancing)
+- [NAXSI: Nginx Anti XSS &amp; SQL Injection.](https://milaan.hashnode.dev/naxsi-nginx-anti-xss-sql-injection)
+- [NTP: Deep level](https://milaan.hashnode.dev/ntp-deep-level)
+- [Introduction to layer 2 attacks.](https://milaan.hashnode.dev/introduction-to-layer-2-attacks)
 <!-- BLOG-POST-LIST:END -->
