@@ -27,8 +27,8 @@
 
 # 📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
- - 💫 [RBAC Implementation on k8s](https://milaan.hashnode.dev/rbac-implementation-on-k8s)
- - 🔥 [Rate limit in specific APIs via Nginx Ingress Controller.](https://milaan.hashnode.dev/rate-limit-in-specific-apis-via-nginx-ingress-controller)
+ - 💫 [Effortless Container Deployments: How Argo CD, Azure Container Registry and  Simplify DevOps](https://milaan.hashnode.dev/effortless-container-deployments-how-argo-cd-azure-container-registry-and-simplify-devops)
+ - 🔥 [RBAC Implementation on k8s](https://milaan.hashnode.dev/rbac-implementation-on-k8s)
+ - 💫 [Rate limit in specific APIs via Nginx Ingress Controller.](https://milaan.hashnode.dev/rate-limit-in-specific-apis-via-nginx-ingress-controller)
  - 💫 [Scaling Docker Containers with Nginx: A Guide to Reverse Proxy and Load Balancing](https://milaan.hashnode.dev/scaling-docker-containers-with-nginx-a-guide-to-reverse-proxy-and-load-balancing)
- - 💫 [NAXSI: Nginx Anti XSS &amp; SQL Injection.](https://milaan.hashnode.dev/naxsi-nginx-anti-xss-sql-injection)
- - 🚀 [NTP: Deep level](https://milaan.hashnode.dev/ntp-deep-level)<!-- BLOG-POST-LIST:END -->
+ - 🚀 [NAXSI: Nginx Anti XSS &amp; SQL Injection.](https://milaan.hashnode.dev/naxsi-nginx-anti-xss-sql-injection)<!-- BLOG-POST-LIST:END -->
