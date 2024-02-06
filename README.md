@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milan Dangol</h1>
 <h3 align="center">I'm the DevOps magician who makes servers disappear... and reappear, hopefully!</h3>
 
-- 🌱 I’m currently learning **Kubernetes, Azure, Automation.**
+- 🌱 I’m currently learning **Kubernetes, AWS, Terraform.**
 
 - 📝 I regularly write articles on [https://milaan.hashnode.dev/](https://milaan.hashnode.dev/)
 
